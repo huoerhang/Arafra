@@ -3,6 +3,10 @@
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Arafra\" />
+  </ItemGroup>
   <Import Project="..\common.props" />
 
 </Project>
