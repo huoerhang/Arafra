@@ -1,5 +1,4 @@
 ﻿using AspectCore.Extensions.DependencyInjection;
-using Microsoft.Extensions.Hosting;
 
 namespace Microsoft.Extensions.Hosting
 {
