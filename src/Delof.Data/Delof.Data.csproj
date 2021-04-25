@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetDelofmework>net5.0</TargetDelofmework>
+  </PropertyGroup>
+  <Import Project="..\common.props" />
+  <ItemGroup>
+    <ProjectReference Include="..\Delof.Ddd\Delof.Ddd.csproj" />
+    <ProjectReference Include="..\Delof\Delof.csproj" />
+  </ItemGroup>
+
+
+</Project>
